@@ -1,6 +1,7 @@
 # Spotify Analytics 🎵📊
 
-**Análise de Dados Musicais com Python **
+** **
+Análise de Dados Musicais com Python 
 
 ## Etapas 🚀
 
