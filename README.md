@@ -16,10 +16,10 @@ Análise de Dados Musicais com Python
 
  ## Criação 🤖
  
-**3. Previsão de Popularidade:**
+**1. Previsão de Popularidade:**
    - Desenvolva modelos de machine learning para prever a popularidade de uma música com base em suas características musicais.
 
-**4. Recomendação de Música:**
+**2. Recomendação de Música:**
    - Crie um sistema de recomendação de música com base nas preferências do usuário.
 
 
