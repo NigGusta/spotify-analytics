@@ -6,13 +6,16 @@ Análise de Dados Musicais com Python
 ## Etapas 🚀
 
 **1. Análisando os Dados:**
-   - Identificando nossas colunas como danceability, energia, e muito mais.
+   - Identificando nossas colunas.
    - Calculando estatísticas descritivas para entender a distribuição de popularidade, danceability, energia, etc.
 
 **2. Visualizações Interativas:**
    - Criando gráficos como histogramas e correlações para visualizar a distribuição dos dados.
    - Analisando tendências temporais de popularidade de músicas ao longo do tempo.
+   - Vendo os Artistas e gêneros mais escutados
 
+ ## Criação 🤖
+ 
 **3. Previsão de Popularidade:**
    - Desenvolva modelos de machine learning para prever a popularidade de uma música com base em suas características musicais.
 
